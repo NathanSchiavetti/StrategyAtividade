@@ -1,0 +1,2 @@
+# StrategyAtividade
+Atividade Strategy
